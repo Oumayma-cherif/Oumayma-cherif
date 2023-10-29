@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/Oumayma-cherif/readme">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A-passionate%20Software%20Engineering%20Student;Mobile%20Development ;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=A-passionate%20Software%20Engineering%20Student;%10 Mobile%20Development ;%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumayma-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="oumayma-cherif" /> </p>
 
