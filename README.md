@@ -1,8 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 <p align="center">
-  <a href="https://github.com/Oumayma-cherif"></a>
+  <a href="https://github.com/Oumayma-cherif">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Oumayma Cherif" /></a>
 </p
-
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/Oumayma-cherif/readme">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A-passionate%20Software%20Engineering%20Student;Mobile%20Development ;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumayma-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="oumayma-cherif" /> </p>
 
 A passionate Software Engineering Student | Mobile Development 
