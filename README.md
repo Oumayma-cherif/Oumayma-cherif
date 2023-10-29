@@ -17,6 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oumayma-cherif&" alt="oumayma-cherif" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oumayma-cherif&show_icons=true&locale=en" alt="Oumayma-cherif" /></p>
 
 ### Badges
 
