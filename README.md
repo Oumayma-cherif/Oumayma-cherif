@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumayma-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="oumayma-cherif" /> </p>
 
 <h1 align="center"> Hi! 👋, I'm Oumayma Cherif </h1>
-<h3 align="center"> A passionate Software Engineering Student | Mobile Development Specialist </h3>
+<h3 align="center"> A passionate Software Engineering Student | Mobile Development </h3>
 
 - ✉️ You can contact me at [oumayma.cherif@esprit.tn](mailto:oumayma.cherif@esprit.tn)  
 - 🧠 I'm currently learning **Kotlin**, **Flutter**, **Node.js**, and **Swift**
