@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi! 👋, I'm Oumayma Cherif</h1>
-<h3 align="center">Software Engineering Student | Mobile Development</h3>
+<h3 align="center">Software Engineering Student | Mobile Developer </h3>
 
 - ✉️ You can contact me at [oumayma.cherif@esprit.tn](mailto:oumayma.cherif@esprit.tn)  
 - 🧠 I'm currently exploring Testing, DevOps, and CI/CD practices.
@@ -76,12 +76,4 @@
     </a>
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oumayma-cherif&show_icons=true&locale=en" alt="Oumayma-cherif" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oumayma-cherif&" alt="Oumayma-cherif" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oumayma-cherif&show_icons=true&locale=en&layout=compact" alt="Oumayma-cherif" />
-</p>
+
