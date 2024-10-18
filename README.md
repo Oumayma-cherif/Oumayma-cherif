@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=oumayma-cherif&label=Profile%20views&color=0e75b6&style=flat" alt="oumayma-cherif" /> 
 </p>
 
-<h1 align="center"> 🎀 Hi! 👋, I'm Oumayma Cherif 🎀</h1>
+<h1 align="center"> 🎀 Heyy , I'm Oumayma Cherif 🎀</h1>
 <h3 align="center">Software Engineering Student | Mobile Developer </h3>
 
 - ✉️ You can contact me at [oumayma.cherif@esprit.tn](mailto:oumayma.cherif@esprit.tn)  
