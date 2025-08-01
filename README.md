@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 🎀 Heyy , I'm Oumayma Cherif 🎀</h1>
-<h3 align="center">Software Engineering Student | Mobile Developer </h3>
+<h3 align="center">Software Engineering | Mobile Developer </h3>
 
 - ✉️ You can contact me at [oumayma.cherif@esprit.tn](mailto:oumayma.cherif@esprit.tn)  
 - 🧠 I'm currently exploring Testing, DevOps, and CI/CD practices.
