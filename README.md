@@ -52,8 +52,12 @@
     <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="42" height="42" alt="Illustrator"/></a>
     <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/></a>
     <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino"/></a>
-    <a href="https://www.servicenow.com/"><img src="https://cdn.worldvectorlogo.com/logos/servicenow-1.svg" width="42" height="42" alt="ServiceNow"/></a>
-    <a href="https://n8n.io/"><img src="https://n8n.io/images/n8n-logo.png" width="42" height="42" alt="n8n"/></a>
+   <a href="https://www.servicenow.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/servicenow/servicenow-original.svg" width="42" height="42" alt="ServiceNow"/>
+</a>
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="42" height="42" alt="n8n"/>
+</a>
   </p>
 </div>
 
