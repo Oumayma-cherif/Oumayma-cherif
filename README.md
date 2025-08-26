@@ -11,7 +11,7 @@
 
 ### 📬 Connect with Me  
 - ✉️ Email: [oumayma.cherif@esprit.tn](mailto:oumayma.cherif@esprit.tn)  
-- 💼 LinkedIn: [linkedin.com/in/oumayma-cheri](https://linkedin.com/in/oumayma-cheri)  
+- 💼 LinkedIn: [linkedin.com/in/oumayma-cherif](https://linkedin.com/in/oumayma-cherif)  
 
 ---
 
